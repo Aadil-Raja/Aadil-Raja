@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aadil Raja</h1>
 <h3 align="center">Full-Stack Developer | AI & Automation Enthusiast</h3>
 
-<img align="center" alt="coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img src="https://storyset.com/illustration/artificial-intelligence/amico" alt="AI Illustration" width="500"/>
+</p>
 
 🚀 Final-year Computer Science student at FAST University, passionate about **building impactful software** across **Web Development, AI, and Automation**.  
 💡 I love turning ideas into code — from full-stack web apps to intelligent automation pipelines.  
