@@ -59,13 +59,5 @@
 
 ---
 
-## 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Aadil-Raja&limit=5&theme=radical&combine_all_yearly_contributions=true&private=false)  
-
----
-
-## ☕ Footer
-Built with ☕, late nights, and the occasional checkmate.  
-
 [![](https://visitcount.itsvg.in/api?id=Aadil-Raja&icon=0&color=0)](https://visitcount.itsvg.in)
 
