@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | AI & Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://storyset.com/illustration/artificial-intelligence/amico" alt="AI Illustration" width="500"/>
+  <img src="https://stories.freepiklabs.com/storage/2498/Programming_Mesa-de-trabajo-1.svg" alt="AI Illustration" width="500"/>
 </p>
 
 🚀 Final-year Computer Science student at FAST University, passionate about **building impactful software** across **Web Development, AI, and Automation**.  
