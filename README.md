@@ -13,13 +13,13 @@
 ## 💫 About Me
 - 🎓 BSCS @ FAST University (7th Semester)  
 - 💻 Experience with **Full-Stack Development, AI Automation, and DevOps**  
-- 🧑‍💻 Internship at **Securiti** → worked on **log ingestion pipelines** using Python, Docker, Kubernetes & Elasticsearch  
+- 🧑‍💻 Internship at **Securiti** → worked on **log ingestion pipelines** using Python, Docker, Kubernetes & Elasticsearch
+- 🧑‍💻 Freelance Developer → built AI automation pipelines, chatbots, and full-stack web apps using React, Node.js, n8n & OpenAI
 - ⚡ Projects:  
   - **MaslaFix** → Service marketplace ([maslafix.com](https://www.maslafix.com))  
   - **Sales Pipeline Automation** → n8n + OpenAI + Pipedrive  
   - **WhatsApp Chatbot** → AI-driven chat with authentication + history  
-  - **RAG App** → Intelligent Document Assistant ([GitHub Link](https://github.com/Aadil-Raja/rag_app))  
-- 🌱 Currently exploring **AI Agents, Scalable Backends, and Cloud-Native Systems**  
+  - **RAG App** → Intelligent Document Assistant ([GitHub Link](https://github.com/Aadil-Raja/rag_app))   
 - 💬 Open to collaboration on **AI/ML, Full-Stack apps, and Automation systems**  
 
 ---
